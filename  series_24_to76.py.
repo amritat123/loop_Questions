@@ -1,0 +1,6 @@
+#24, 37, 50, 63, 76 out chahi
+i=1
+while i<=76:
+	if i %13==11:
+		print (i)
+	i+=1
